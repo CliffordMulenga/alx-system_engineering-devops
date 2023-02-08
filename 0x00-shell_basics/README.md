@@ -14,3 +14,5 @@ ls -lna
 mkdir /tmp/my_first_directory
 #moving files
 mv /tmp/betty /tmp/my_first_directory
+#removing files
+rm /tmp/my_first_directory/betty
