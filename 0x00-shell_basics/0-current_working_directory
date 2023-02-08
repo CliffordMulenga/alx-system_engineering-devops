@@ -1,0 +1,3 @@
+#!/bin/bash
+#printing the absolute path to file
+./0-current_working_directory
