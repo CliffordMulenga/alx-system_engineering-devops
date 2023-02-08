@@ -2,3 +2,5 @@
 pwd
 #list files in directory
 ls
+#changes working directory to home directory
+cd ~
