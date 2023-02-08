@@ -16,3 +16,5 @@ mkdir /tmp/my_first_directory
 mv /tmp/betty /tmp/my_first_directory
 #removing files
 rm /tmp/my_first_directory/betty
+#delete directory
+rmdir /tmp/my_first_directory
