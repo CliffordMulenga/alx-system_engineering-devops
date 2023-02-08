@@ -12,3 +12,5 @@ ls -la
 ls -lna
 #create directory
 mkdir /tmp/my_first_directory
+#moving files
+mv /tmp/betty /tmp/my_first_directory
