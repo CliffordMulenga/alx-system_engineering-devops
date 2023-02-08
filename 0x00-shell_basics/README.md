@@ -18,3 +18,5 @@ mv /tmp/betty /tmp/my_first_directory
 rm /tmp/my_first_directory/betty
 #delete directory
 rmdir /tmp/my_first_directory
+#back
+cd -
