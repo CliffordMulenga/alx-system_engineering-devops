@@ -10,3 +10,5 @@ ls -l
 ls -la
 #display
 ls -lna
+#create directory
+mkdir /tmp/my_first_directory
