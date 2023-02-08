@@ -6,3 +6,5 @@ ls
 cd ~
 #display files in long format
 ls -l
+#display files even hidden ones n long format
+ls -la
