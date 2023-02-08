@@ -8,3 +8,5 @@ cd ~
 ls -l
 #display files even hidden ones n long format
 ls -la
+#display
+ls -lna
