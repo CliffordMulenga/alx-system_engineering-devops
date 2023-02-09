@@ -20,3 +20,5 @@ rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory
 #back
 cd -
+#all files
+ls -al . .. /boot
