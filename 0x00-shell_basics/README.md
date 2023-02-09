@@ -22,3 +22,5 @@ rmdir /tmp/my_first_directory
 cd -
 #all files
 ls -al . .. /boot
+#file type
+file /tmp/iamafile
