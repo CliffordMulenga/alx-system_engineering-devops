@@ -24,3 +24,5 @@ cd -
 ls -al . .. /boot
 #file type
 file /tmp/iamafile
+#symbolic link
+ln -s /bin/ls _ls_
